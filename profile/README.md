@@ -1,55 +1,80 @@
-# ☕ Jumpers Chiya Diaries
+# 🏏 Jumpers Cricket Academy
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=174D3A&height=220&section=header&text=Jumpers%20Chiya%20Diaries&fontSize=38&fontColor=F8F3E7&fontAlignY=38&desc=Good%20Chiya.%20Good%20Conversations.&descSize=16&descAlignY=58" width="100%" alt="Jumpers Chiya Diaries banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=123D70&height=220&section=header&text=JUMPERS%20CRICKET%20ACADEMY&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=Learn%20Cricket.%20Build%20Character.%20Play%20to%20Win.&descSize=14&descAlignY=58" width="100%" alt="Jumpers Cricket Academy banner" />
 </p>
 
 <p align="center">
-  <strong>A place where every cup tells a story.</strong><br />
-  Bringing people together through the warmth of chiya, conversations, and shared moments.
+  <strong>Developing cricket skills, building confidence, and inspiring the next generation of cricketers.</strong>
 </p>
 
 <p align="center">
+  <a href="https://jumperscricketacademy.com.np">
+    <img src="https://img.shields.io/badge/Website-Visit%20Us-123D70?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
   <a href="https://github.com/jumpers-chiya-diaries">
-    <img src="https://img.shields.io/badge/GitHub-Jumpers%20Chiya%20Diaries-174D3A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Organization" />
+    <img src="https://img.shields.io/badge/GitHub-Our%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 ---
 
-## 🍵 About Us
+## 🏆 About Us
 
-Welcome to **Jumpers Chiya Diaries** — inspired by the Nepali tradition of enjoying a warm cup of *chiya* and sharing stories with the people around us.
+**Jumpers Cricket Academy** is dedicated to developing cricket talent through training, practice, teamwork, and a passion for the game.
 
-We believe the best moments often begin with a simple cup of tea. Our vision is to build a welcoming identity around good chiya, meaningful conversations, and memorable experiences.
+We aim to create an environment where aspiring cricketers can improve their technique, develop discipline, and enjoy the spirit of cricket.
 
-## 🌿 What We Believe In
+- 🏏 Cricket training and skill development
+- 🎯 Practice focused on continuous improvement
+- 🤝 Teamwork, sportsmanship, and discipline
+- 🏟️ Cricket and indoor sports facility booking
+- 💻 Digital solutions to make sports experiences more accessible
 
-- ☕ **Good Chiya** — celebrating the comfort of a great cup.
-- 🤝 **Community** — bringing people together, one conversation at a time.
-- 💚 **Authenticity** — keeping things warm, simple, and genuine.
-- ✨ **Memorable Moments** — making everyday breaks a little more special.
+## 🚀 What We're Building
 
-## 💻 Our Digital Space
+Our digital ecosystem supports the academy and its community.
 
-This GitHub organization is home to our digital projects, experiments, and development work.
+| Project | Description |
+|---|---|
+| 🌐 Academy Website | Our online presence and information hub |
+| 📅 Booking Platform | Digital booking for cricket and indoor facilities |
+| ⚙️ Booking Backend | APIs and backend services powering bookings |
 
-We aim to use technology to improve our workflows, build useful digital experiences, and support our long-term vision.
+Explore our repositories to discover the technologies and projects behind our digital platforms.
 
-## 🤝 Let's Connect
+## 💻 Technology
 
-Have an idea, collaboration opportunity, or something interesting to share?
-
-We would love to hear from you.
+Our repositories include projects built with technologies such as:
 
 <p align="center">
-  <strong>Good Chiya. Good People. Good Stories.</strong>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,mysql,html,css,git,github" alt="Technologies used across our repositories" />
+</p>
+
+*Technologies vary by project.*
+
+## 🌱 Our Mission
+
+To encourage a love for cricket, support aspiring players, and combine sports with technology to create better experiences for our community.
+
+## 🤝 Get in Touch
+
+Interested in training, facility bookings, partnerships, or collaboration?
+
+- 🌐 **Website:** [Jumpers Cricket Academy](https://jumperscricketacademy.com.np)
+- 💻 **GitHub:** [@jumpers-chiya-diaries](https://github.com/jumpers-chiya-diaries)
+- ✉️ **Email:** info.jumperscricketacademy@gmail.com
+
+---
+
+<p align="center">
+  <strong>Play with passion. Train with purpose. Grow together. 🏏</strong>
 </p>
 
 <p align="center">
-  Made with ☕ and ❤️ in Nepal
+  Made with ❤️ in Nepal
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=174D3A&height=100&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=123D70&height=100&section=footer" width="100%" alt="" />
 </p>
